@@ -3,9 +3,9 @@ A bot that forwards XenForo forum notifications to Telegram with detailed inform
 
 ## Installing
 1. Download Python and a virtual environment, and activate it.
-2. Settings "cfg.json"
-— SUCCESS_URL — link to you forum
-— LOGIN — pseudonym or email address
-— PASSWORD — your password
+2. Settings "cfg.json":
+- SUCCESS_URL — link to you forum
+- LOGIN — pseudonym or email address
+- PASSWORD — your password
 — TELEGRAM_TOKEN - your telegram-token (BotFather)
 — TELEGRAM_CHAT_ID — your profile ID
