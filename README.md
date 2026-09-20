@@ -7,5 +7,8 @@ A bot that forwards XenForo forum notifications to Telegram with detailed inform
 - SUCCESS_URL — link to you forum
 - LOGIN — pseudonym or email address
 - PASSWORD — your password
-— TELEGRAM_TOKEN - your telegram-token (BotFather)
-— TELEGRAM_CHAT_ID — your profile ID
+- TELEGRAM_TOKEN - your telegram-token (BotFather)
+- TELEGRAM_CHAT_ID — your profile ID
+- random_responses — list of phrases for automated responses
+- gemini — Settings AI:
+- - enabled (true/false) — mark as active (provided that the response flag is also active)
