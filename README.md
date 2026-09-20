@@ -7,8 +7,7 @@
 
 * **🔔 Instant Notification Forwarding:** Sends detailed alerts and direct links to Telegram whenever events happen on your XenForo profile or monitored topics.
 
-* **💬 Profile Message Tracking:**
-* monitors relevant posts on your wall and responds to them
+* **💬 Profile Message Tracking:** monitors relevant posts on your wall and responds to them
 
 * **🤖 Smart Auto-Reply System:**
 
