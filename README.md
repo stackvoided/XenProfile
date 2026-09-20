@@ -13,4 +13,5 @@ A bot that forwards XenForo forum notifications to Telegram with detailed inform
 - gemini — Settings AI:
 - flags — Automating replies and tracking forum notifications
 3. pip install -r requirements
-4. python xenforo.py
+4. playwright install
+5. python xenforo.py
