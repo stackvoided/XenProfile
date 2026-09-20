@@ -1,5 +1,5 @@
 
-# 🤖 XenProfile
+# 🦾 XenProfile
 
 **XenProfile** is a feature-rich automation tool designed to bridge your **XenForo** forum account with **Telegram**. It forwards forum notifications and private messages directly to your Telegram chat with direct links, while providing automated responses using custom phrases or **Google Gemini AI**.
 
@@ -7,7 +7,8 @@
 
 * **🔔 Instant Notification Forwarding:** Sends detailed alerts and direct links to Telegram whenever events happen on your XenForo profile or monitored topics.
 
-* **💬 Private Message Tracking:** Forwards new conversations and messages directly to your Telegram chat.
+* **💬 Profile Message Tracking:**
+* monitors relevant posts on your wall and responds to them
 
 * **🤖 Smart Auto-Reply System:**
 
