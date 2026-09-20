@@ -11,4 +11,6 @@ A bot that forwards XenForo forum notifications to Telegram with detailed inform
 - TELEGRAM_CHAT_ID — your profile ID
 - random_responses — list of phrases for automated responses
 - gemini — Settings AI:
-- - enabled (true/false) — mark as active (provided that the response flag is also active)
+- flags — Automating replies and tracking forum notifications
+3. pip install -r requirements
+4. python xenforo.py
