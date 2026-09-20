@@ -1,0 +1,25 @@
+{
+  "SUCCESS_URL": "https://forum.example.com",
+  "LOGIN": "Admin",
+  "PASSWORD": "123123",
+  "TELEGRAM_TOKEN": "your_token",
+  "TELEGRAM_CHAT_ID": "1",
+  "random_responses": [
+    "Спасибо за ваше сообщение!",
+    "Приветствую! Принято к сведению.",
+    "Отличная запись, спасибо!",
+    "Добрый день, ответил вам.",
+    "Спасибо, хорошего дня!"
+  ],
+  "gemini": {
+    "enabled": true,
+    "api_key": "AQ.Ab8RN6K49Xll5FuMFaezkoiGa_C4Vz6_FxATqz_dqfJCuI5pIg",
+    "role": "Ты вежливый и лаконичный ассистент на форуме. Отвечай кратко, естественным языком, без лишних формальностей, смайликов и сложных конструкций. 1-2 предложения максимум."
+  },
+  "flags": {
+    "reply": true,
+    "notifications": {
+      "seen": []
+    }
+  }
+}
