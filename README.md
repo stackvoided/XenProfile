@@ -9,7 +9,7 @@
 
 * **💬 Profile Message Tracking:** monitors relevant posts on your wall and responds to them
 
-* **🤖 Smart Auto-Reply System:**
+* **🔥 Smart Auto-Reply System:**
 
   * **Static Mode:** Sends randomized pre-defined responses.
 
